@@ -30,7 +30,7 @@
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Backend Magic 🧠 |
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | Data Persistence 💾 |
 | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | Lightning-fast APIs ⚡ |
-| ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) | Mobile Integration 📱 |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | Mobile Integration 📱 |
 
 ---
 
