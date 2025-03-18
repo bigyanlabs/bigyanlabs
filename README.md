@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/bigyanlabs/main/static/banner.png" alt="Bigyan Labs Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/bigyanlabs/main/static/banner.webp" alt="Bigyan Labs Banner" width="100%">
 </h1>
 
 <h3 align="center">🚀 Innovating One Byte at a Time 🚀</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bigyanlabs/main/static/logo.png" alt="Bigyan Labs Logo" width="120">
+  <img src="https://raw.githubusercontent.com/bigyanlabs/main/static/logo.jpg" alt="Bigyan Labs Logo" width="120">
 </p>
 
 ---
